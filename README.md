@@ -1,4 +1,4 @@
-# each-lay-add-composition-to-media-encoder-extend-script
+# each-layer-add-composition-to-media-encoder-extend-script
 My scene has 100+ mov layers that I needed to render out individually as multiple file types (low res gif, high res gif, and mp4). Not wanting to do that manually I wrote a script.
 
 The script adds the composition to the media encoder showing each video file.
